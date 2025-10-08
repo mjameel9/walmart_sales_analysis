@@ -3,6 +3,8 @@
  ## Project Overview
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. I used Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions.
 
+Click here to view the [Data Processing and Analysis of Sales using Python](https://github.com/mjameel9/walmart_sales_analysis/blob/main/sales_analysis.ipynb)
+
 # Business Problems
 
 ## 1. Analyze Payment Methods and Sales
@@ -46,6 +48,8 @@ especially during high-sales periods.
 the previous year?
   * Objective: To detect branches with declining revenue and to understand
 possible local issues and thereby create strategies to boost sales or mitigate losses.
+
+Click here to view the [Sales Analysis using SQL Queries](https://github.com/mjameel9/walmart_sales_analysis/blob/main/sql_queries_sales_analysis.sql)
 
 
  
